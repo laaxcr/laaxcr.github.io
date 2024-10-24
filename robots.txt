@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://laaxcr.github.io/NhX/sitemap.NhX
